@@ -1,0 +1,7 @@
+{
+  "metainfo": "apmplugin/metainfo.json",
+  "main": "apmplugin/src/main.py",
+  "strings": "apmplugin/locales",
+  "assets": "apmplugin/res",
+  "elyxbuilder": "apmplugin/.elyxbuilder"
+}

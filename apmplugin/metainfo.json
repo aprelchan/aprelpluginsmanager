@@ -1,0 +1,19 @@
+{
+  "name": "Aprel Plugins Manager",
+  "description": "{description}",
+  "id": "aprelpluginsmanager",
+  "version": "1.0.0",
+  "codename": "Aprel Chan",
+  "author": "Aprel Team",
+  "app_version": ">=1.0.0",
+  "sdk_version": ">=1.4.0.0",
+  "permissions": [
+    "messages.read",
+    "messages.send",
+    "network",
+    "files",
+    "intents",
+    "settings",
+    "hooks"
+  ]
+}
