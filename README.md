@@ -1,6 +1,7 @@
 # Aprel Plugins Manager
 
 The noofficial plugin manager for Aprel Gram — install, update, and manage plugins directly from pluins. Lightweight, fast, built natively on the extera plugin API.
+
 Original - https://git.kangel.xyz/KangelPlugins/PluginManager
 
 ---
@@ -40,8 +41,10 @@ Windows:
 ## Community
 
 Forum Aprel Team: [@aprelteamsupport](https://t.me/aprelteamsupport)
+
 Plugin Channel: [Aprel Plugins](https://t.me/aprelplugins)
-Plugin Channel: [Aprel Plugins Chat](https://t.me/aprelpluginschat)
+
+Plugin Chat: [Aprel Plugins Chat](https://t.me/aprelpluginschat)
 
 ## License
 
